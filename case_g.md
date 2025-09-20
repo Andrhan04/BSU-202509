@@ -27,4 +27,5 @@
 
 
 [Оригинал задачи](https://codeforces.com/contest/2043/problem/A)
+
 [Решение задачи](Solution_G.md)

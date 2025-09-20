@@ -2,33 +2,20 @@
 
 <h2> Условия задач задач </h2>
 
-[Условие задачи A](case_a.md)
+| Условия        | Названия | Сложность | Решения         | Возможно решить               |
+| -------------- | -------- | --------- | --------------- | ----------------------------- |
+| [A](case_a.md) |          | 1000      | [A](Solution_A) | Нет                           |
+| [B](case_b.md) |          | 800       | [B](Solution_B) | Да                            |
+| [C](case_c.md) |          | 800       | [C](Solution_C) | Да                            |
+| [D](case_d.md) |          | 900       | [D](Solution_D) | Да                            |
+| [E](case_e.md) |          | 1000      | [E](Solution_E) | Да, но сложно                 |
+| [F](case_f.md) |          | 1100      | [F](Solution_F) | Да                            |
+| [G](case_g.md) |          | 800       | [G](Solution_G) | Да                            |
+| [H](case_h.md) |          | 1100      | [H](Solution_H) | Нет                           |
+| [I](case_i.md) |          | 1400      | [I](Solution_I) | Скорее всего нет, но возможно |
+| [J](case_j.md) |          | 1000      | [J](Solution_J) | Да скорее всего               |
+| [K](case_k.md) |          | 900       | [K](Solution_K) | Да                            |
+| [L](case_l.md) |          | 900       | [L](Solution_L) | Да                            |
 
-[Условие задачи B](case_b.md)
-
-[Условие задачи C](case_c.md)
-
-[Условие задачи D](case_d.md)
-
-[Условие задачи E](case_e.md)
-
-[Условие задачи F](case_f.md)
-
-[Условие задачи G](case_g.md)
-
-[Условие задачи H](case_h.md)
-
-[Условие задачи I](case_i.md)
-
-[Условие задачи J](case_j.md)
-
-[Условие задачи K](case_k.md)
-
-[Условие задачи L](case_l.md)
-
-
-<h2> Решения задач </h2>
-
-<h2> Ссылка на документ с задачами </h2>
 
 [Документ](https://docs.google.com/document/d/1VGYC4-LbITA_H7OkvL57humzR2IfeXFRxIov0-tofyo/edit?usp=sharing)
