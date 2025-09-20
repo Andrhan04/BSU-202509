@@ -87,3 +87,4 @@ prime & \\
 
 
 [Оригинал задачи](https://codeforces.com/contest/679/problem/A)
+[Решение задачи](Solution_I.md)

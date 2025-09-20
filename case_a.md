@@ -28,3 +28,4 @@
 
 
 [Оригинал задачи](https://codeforces.com/contest/1033/problem/A)
+[Решение задачи](Solution_A.md)

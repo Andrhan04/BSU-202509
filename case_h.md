@@ -32,3 +32,4 @@
 
 
 [Оригинал задачи](https://codeforces.com/contest/2025/problem/B)
+[Решение задачи](Solution_H.md)
