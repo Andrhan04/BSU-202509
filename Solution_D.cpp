@@ -12,50 +12,36 @@
 
 using namespace std;
 
-typedef long long ll;
 #define int long long
 #define Fast ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);
-#define Dict vector<string>
-#define Graf vector<vector<edge>>
+#define Card vector<string>
+#define Graf vector<vector<long long>>
 #define all(v) (v).begin(), (v).end()
 string yes = "YES", no = "NO", imp = "Impossible";
 
-int calc(vector<int>&arr, int h) {
-    int cnt = 0;
-    for (auto i : arr) {
-        cnt += max(h - i, (int)0);
-    }
-    return cnt;
-}
-
-int binfind(int mx, vector<int>&arr) {
-    int l = 0, r = *max_element(all(arr)) + mx;
-    while (l + 1 < r) {
-        int m = (l + r) / 2;
-        if (calc(arr, m) > mx) {
-            r = m;
+void slove() {
+    int n;
+    string s;
+    cin >> n >> s;
+    int ans = 0;
+    for (int i = 2; i < n; i++) {
+        if (s[i - 2] == 'm' && s[i - 1] == 'a' && s[i] == 'p') {
+            ans++;
         }
-        else {
-            l = m;
+        if (s[i - 2] == 'p' && s[i - 1] == 'i' && s[i] == 'e') {
+            ans++;
+        }
+        if (i + 2 < n && s[i - 2] == 'm' && s[i - 1] == 'a' && s[i] == 'p' && s[i + 1] == 'i' && s[i + 2] == 'e') {
+            ans--;
         }
     }
-    return ((calc(arr, r) > mx) ? l : r);
-}
-
-void solve() {
-    int n,x;
-    cin >> n >> x;
-    vector<int> arr(n);
-    for (auto& i : arr) cin >> i;
-    cout << binfind(x,arr) << endl;
+    cout << ans << endl;
 }
 
 signed main() {
     Fast;
-    int t = 1;
+    int t;
     cin >> t;
-    while (t--) {
-        solve();
-    }
+    while (t--) slove();
     return 0;
 }
