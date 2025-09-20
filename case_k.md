@@ -33,3 +33,5 @@
 [Оригинал задачи](https://codeforces.com/contest/1971/problem/C)
 
 [Решение задачи](Solution_K.md)
+
+[На главную](README.md)

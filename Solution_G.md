@@ -6,3 +6,5 @@
 
 
 [Код С++](Solution_G.cpp)
+
+[На главную](README.md)

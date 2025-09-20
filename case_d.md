@@ -32,3 +32,5 @@ $^\dagger$ Строка $a$ является подстрокой $b$, если 
 [Оригинал задачи](https://codeforces.com/contest/1941/problem/C)
 
 [Решение задачи](Solution_D.md)
+
+[На главную](README.md)

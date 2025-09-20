@@ -31,3 +31,5 @@
 [Оригинал задачи](https://codeforces.com/contest/1638/problem/B)
 
 [Решение задачи](Solution_F.md)
+
+([На главную](README.md))

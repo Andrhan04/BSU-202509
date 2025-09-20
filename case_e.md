@@ -33,3 +33,5 @@ $^{\dagger}$ Число $y$ является делителем числа $x$, 
 [Оригинал задачи](https://codeforces.com/contest/1916/problem/B)
 
 [Решение задачи](Solution_E.md)
+
+[На главную](README.md)

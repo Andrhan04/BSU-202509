@@ -48,3 +48,5 @@
 [Оригинал задачи](https://codeforces.com/contest/2000/problem/C)
 
 [Решение задачи](Solution_J.md)
+
+[На главную](README.md)

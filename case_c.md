@@ -19,3 +19,5 @@
 [Оригинал задачи](https://codeforces.com/contest/2044/problem/A)
 
 [Решение задачи](Solution_C.md)
+
+[На главную](README.md)

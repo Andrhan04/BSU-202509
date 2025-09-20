@@ -5,3 +5,5 @@
 
 [Код С++](Solution_I.cpp)
 [Код Python](Solution_I.py)
+
+[На главную](README.md)

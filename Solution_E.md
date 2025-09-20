@@ -14,3 +14,5 @@
 $$x = b*p = \frac{b*a}{gcd(a,b)}$$
 
 [Код С++](Solution_E.cpp)
+
+[На главную](README.md)
