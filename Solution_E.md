@@ -11,7 +11,7 @@
 
 В этом случае $b =\frac{x}{p}$, $a = \frac{x}{q}$, $p$ , $q$ — два минимальных простых делителя $x$. Тогда $$gcd(a,b) = \frac{x}{p*q}$$
 
-$$x = b*p = \frac{b*a}{gcd(a,b)}$$
+$$x = b * p = \frac{b * a}{gcd(a,b)}$$
 
 [Код С++](Solution_E.cpp)
 
