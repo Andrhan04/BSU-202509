@@ -23,22 +23,12 @@ string yes = "YES", no = "NO", imp = "Impossible";
 void slove() {
     int a, b;
     cin >> a >> b;
-    if (a != 1) {
-        if (a * a == b) {
-            cout << a * b << endl;
-        }
-        else {
-            int g = gcd(a, b);
-            if (g == a) {
-                cout << b * b / g << endl;
-            }
-            else {
-                cout << (a * b) / g << endl;
-            }
-        }
+    if (a == 1) {
+        cout << b * b << endl;
     }
     else {
-        cout << b * b << endl;
+        int g = gcd(a, b);
+        cout << ((g == a) ? (b * b / g) : (a * b / g)) << endl;
     }
 }
 
